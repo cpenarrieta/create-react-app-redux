@@ -3,7 +3,7 @@ import React, { PropTypes } from 'react';
 function ReportsView() {
   return (
     <div className="reports">
-      Reports
+      Reports!
     </div>
   );
 }
